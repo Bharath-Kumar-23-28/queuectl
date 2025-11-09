@@ -106,18 +106,19 @@ Remove-Item queuectl.db*
 queuectl status
 ## Architecture Overview
 ┌─────────────┐
-│   CLI Tool  │  (queuectl commands)
+│   CLI Tool  │
 └──────┬──────┘
        │
        ▼
 ┌─────────────┐
-│  SQLite DB  │  (queuectl.db - Job state & config)
+│  SQLite DB  │
 └──────┬──────┘
        │
        ▼
 ┌─────────────┐
-│   Workers   │  (Multiple processes claiming & executing jobs)
+│   Workers   │
 └─────────────┘
+
 
 
 Jobs flow: **pending** → **processing** → **completed** ↓ **dead** (DLQ) For complete documentation, see README.md do the same thing as done for the previous
