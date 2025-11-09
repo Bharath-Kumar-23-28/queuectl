@@ -449,5 +449,4 @@ queuectl is production-ready with:
 
 *Generated: November 8, 2025*
 *Version: 1.0.0*
-*Status: Production Ready ✅*
-do the same
+*Status: Production Ready *
