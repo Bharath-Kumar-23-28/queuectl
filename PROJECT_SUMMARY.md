@@ -341,6 +341,3 @@ python test_api.py
 ```
 
 **For detailed usage, see README.md and WINDOWS_GUIDE.md**
-do the exact same thing as previous
-remove only the emotes from this entire file and give me a new file 
-not as fragments but the entire file to be copied
