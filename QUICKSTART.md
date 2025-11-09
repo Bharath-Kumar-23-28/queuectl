@@ -119,4 +119,5 @@ queuectl status
 │   Workers   │  (Multiple processes claiming & executing jobs)
 └─────────────┘
 
+
 Jobs flow: **pending** → **processing** → **completed** ↓ **dead** (DLQ) For complete documentation, see README.md do the same thing as done for the previous
