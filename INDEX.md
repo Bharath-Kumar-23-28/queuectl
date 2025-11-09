@@ -199,4 +199,4 @@ queuectl dlq retry <job-id>          # Retry failed job
 # CONFIG
 queuectl config get <key>            # Get value
 queuectl config set <key> <value>    # Set value
---- **Ready to start?** Run: python demo_interactive.py **Need help?** Read: [QUICKSTART.md](QUICKSTART.md) **Want details?** Read: [README.md](README.md) --- *queuectl - Simple, Reliable, Background Job Processing* remove emotes and comments, and what is this md file
+--- **Ready to start?** Run: python demo_interactive.py **Need help?** Read: [QUICKSTART.md](QUICKSTART.md) **Want details?** Read: [README.md](README.md) --- *queuectl - Simple, Reliable, Background Job Processing* 
