@@ -433,5 +433,3 @@ queuectl config --help
 ---
 
 **For more details, see README.md**
-do the same thing 
-with a single code
