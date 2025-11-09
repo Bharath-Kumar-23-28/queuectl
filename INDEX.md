@@ -1,4 +1,4 @@
-# queuectl - Getting Started Welcome to **queuectl** - a robust, SQLite-backed background job queue for Python! ##  Quick Start (30 seconds)
+# queuectl - Getting Started Welcome to **queuectl** - a robust, SQLite-backed background job queue for Python! ##  Quick Start 
 powershell
 # 1. Install
 pip install -e .
